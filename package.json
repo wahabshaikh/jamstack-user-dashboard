@@ -11,8 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@reach/dialog": "^0.13.2",
+    "@reach/tabs": "^0.13.2",
+    "@reach/visually-hidden": "^0.13.2",
     "gatsby": "^3.1.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-netlify-identity": "^0.2.5",
+    "react-netlify-identity-widget": "^0.2.7"
   }
 }
